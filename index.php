@@ -591,6 +591,12 @@
             <div class="nav-item">
                 <div class="nav-icon"><i class="fas fa-cog"></i></div>
                 <div>系统设置</div>
+            </div>  <div class="nav-item">
+                <div class="nav-icon"><i class="fas fa-cog"></i></div>
+                <div>系统设置</div>
+            </div>  <div class="nav-item">
+                <div class="nav-icon"><i class="fas fa-cog"></i></div>
+                <div>系统设置</div>
             </div>
         </div>
         
